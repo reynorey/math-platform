@@ -1,9 +1,8 @@
-
-
+//Homepage with table of contents
 export default function Home() {
     return (
         <>
-        <header> <h1>Wow</h1> </header>
+        <header> <h1>Math Platform</h1> </header>
 
         <section><p>Hello this is my math platform, here you will find notes and practice
         problems!! </p>
@@ -16,10 +15,7 @@ export default function Home() {
                 <h3>PEMDAS</h3>
             </section>
         </main>
-        
         </>
-       
-
     )
     
 }
